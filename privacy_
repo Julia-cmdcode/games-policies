@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Политика конфиденциальности / Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        .container {
+            background: #fff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 { color: #222; border-bottom: 2px solid #eee; padding-bottom: 10px; font-size: 1.8em; }
+        h2 { color: #444; margin-top: 30px; font-size: 1.4em; }
+        p { margin-bottom: 15px; }
+        .footer { margin-top: 50px; font-size: 0.9em; color: #777; border-top: 1px solid #eee; padding-top: 20px; text-align: center; }
+        ul { margin-bottom: 15px; padding-left: 20px; }
+        li { margin-bottom: 8px; }
+        hr { border: 0; height: 1px; background: #ddd; margin: 40px 0; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <!-- РУССКАЯ ВЕРСИЯ -->
+    <h1>Политика конфиденциальности</h1>
+    <p><strong>Дата последнего обновления:</strong> 15 апреля 2026 г.</p>
+
+    <p>Настоящая Политика конфиденциальности описывает, как проект <strong>«Антистресс игры»</strong> (далее — «мы», «Оператор») обрабатывает данные пользователей (далее — «Пользователь», «вы») при использовании наших казуальных веб-игр (далее — «Игры»).</p>
+    
+    <p>Мы уважаем вашу конфиденциальность и соблюдаем требования Федерального закона РФ № 152-ФЗ «О персональных данных», Общего регламента ЕС по защите данных (GDPR) и Закона Турции о защите персональных данных (KVKK).</p>
+
+    <h2>1. Какие данные мы собираем</h2>
+    <p>Мы не требуем регистрации и не собираем ваши персональные данные (имя, телефон, email) напрямую. Однако в Играх используются автоматизированные системы платформ и аналитики (например, Яндекс SDK), которые могут собирать:</p>
+    <ul>
+        <li><strong>Технические данные:</strong> тип устройства, модель, разрешение экрана, операционная система, тип браузера;</li>
+        <li><strong>Сетевые данные:</strong> IP-адрес (в анонимизированном виде), примерное географическое положение (страна/город);</li>
+        <li><strong>Игровые метрики:</strong> время сессии, прогресс, достигнутые уровни, клики, источник перехода (реферал);</li>
+        <li><strong>Данные игровых платформ:</strong> при авторизации через аккаунт платформы (Яндекс Игры, Одноклассники), мы можем получать доступ к вашему публичному имени (нику) и аватару исключительно для отображения внутри игры (в профиле или таблице рекордов). Мы не храним эти данные на своих внешних серверах.</li>
+    </ul>
+
+    <h2>2. Цели обработки данных</h2>
+    <p>Данные собираются в обезличенном виде для следующих целей:</p>
+    <ul>
+        <li>Обеспечение работы Игры (сохранение прогресса, таблицы лидеров);</li>
+        <li>Анализ аудитории и улучшение игрового процесса;</li>
+        <li>Исправление технических ошибок и оптимизация производительности;</li>
+        <li>Показ релевантной рекламы сетями платформ-партнеров.</li>
+    </ul>
+
+    <h2>3. Правовые основания</h2>
+    <p>Обработка данных осуществляется на основании:</p>
+    <ul>
+        <li>Вашего согласия, выраженного фактом начала и продолжения использования Игры;</li>
+        <li>Наших законных интересов (улучшение качества продукта, обеспечение безопасности).</li>
+    </ul>
+
+    <h2>4. Передача данных третьим лицам</h2>
+    <p>Мы не продаем ваши данные. Обезличенные данные могут обрабатываться следующими партнерскими сервисами в соответствии с их политиками конфиденциальности:</p>
+    <ul>
+        <li><strong>Платформа Яндекс Игры:</strong> Для авторизации, облачных сохранений, внутриигровых покупок и показа рекламы. Регулируется <a href="https://yandex.ru/legal/confidential/" target="_blank">Политикой конфиденциальности Яндекса</a>.</li>
+        <li><strong>Платформа ОК (Одноклассники):</strong> Если Игра запущена в этой социальной сети, платформа обрабатывает данные для авторизации и социального взаимодействия. Регулируется Политикой конфиденциальности VK.</li>
+        <li><strong>Сервисы аналитики (например, Яндекс.Метрика):</strong> Для сбора статистики использования.</li>
+    </ul>
+
+    <h2>5. Файлы Cookie и Локальное хранилище</h2>
+    <p>Для сохранения вашего игрового прогресса на вашем устройстве, Игра использует локальное хранилище браузера (LocalStorage) и файлы cookie. Вы можете очистить эти данные в любой момент в настройках вашего браузера (это приведет к сбросу игрового прогресса, если он не сохранен в облаке платформы).</p>
+
+    <h2>6. Срок хранения данных</h2>
+    <p>Мы храним обезличенные аналитические данные ровно столько, сколько необходимо для достижения целей, указанных в настоящей Политике, но, как правило, не более 14 месяцев с момента вашей последней активности, после чего они автоматически удаляются аналитическими системами.</p>
+
+    <h2>7. Защита данных детей</h2>
+    <p>Наши Игры предназначены для широкой аудитории. Мы намеренно не собираем персональные данные детей младше 13 лет (или иного возраста, требующего согласия родителей по законам вашей страны). Если вы являетесь родителем и узнали, что ваш ребенок предоставил нам данные без вашего согласия, свяжитесь с нами.</p>
+
+    <h2>8. Права пользователя</h2>
+    <p>Если вы находитесь в РФ (152-ФЗ), ЕС (GDPR) или Турции (статья 11 KVKK), вы имеете право:</p>
+    <ul>
+        <li>Узнать, какие данные о вас обрабатываются;</li>
+        <li>Потребовать удаления данных (осуществляется путем очистки кэша/cookie вашего браузера и отзыва разрешений в настройках вашего Яндекс ID или аккаунта ОК);</li>
+        <li>Отозвать согласие на обработку данных, прекратив использование Игры.</li>
+    </ul>
+
+    <h2>9. Контакты</h2>
+    <p>По вопросам, связанным с конфиденциальностью, вы можете связаться с нами:</p>
+    <ul>
+        <li><strong>Оператор данных (Разработчик):</strong> [ВАШЕ ФИО ИЛИ НАЗВАНИЕ КОМПАНИИ]</li>
+        <li><strong>Email:</strong> <a href="mailto:antistress_igry@mail.ru">antistress_igry@mail.ru</a></li>
+    </ul>
+
+    <hr>
+
+    <!-- ENGLISH VERSION -->
+    <h1>Privacy Policy</h1>
+    <p><strong>Last updated:</strong> April 15, 2026</p>
+
+    <p>This Privacy Policy describes how the <strong>"Antistress Games"</strong> project (hereinafter "we", "Data Controller") processes the data of users (hereinafter "User", "you") when using our casual web games (hereinafter "Games").</p>
+
+    <p>We respect your privacy and comply with the requirements of the EU General Data Protection Regulation (GDPR), the Turkish Personal Data Protection Law (KVKK), and the applicable privacy laws of the Russian Federation (152-FZ).</p>
+
+    <h2>1. Data We Collect</h2>
+    <p>We do not require registration and do not directly collect your personal data (name, phone number, email). However, our Games use automated platform and analytics systems (e.g., Yandex SDK) which may collect:</p>
+    <ul>
+        <li><strong>Technical data:</strong> device type, model, screen resolution, operating system, browser type;</li>
+        <li><strong>Network data:</strong> IP address (in anonymized form), approximate geographic location (country/city);</li>
+        <li><strong>Game metrics:</strong> session duration, progress, levels reached, clicks, referral source;</li>
+        <li><strong>Gaming Platform Data:</strong> When you log in via a platform account (Yandex Games, Odnoklassniki), we may access your public username and avatar solely to display them within the game (e.g., profile or leaderboards). We do not store this data on external servers.</li>
+    </ul>
+
+    <h2>2. Purpose of Data Processing</h2>
+    <p>Data is collected in an anonymized format for the following purposes:</p>
+    <ul>
+        <li>Ensuring Game functionality (saving progress, leaderboards);</li>
+        <li>Analyzing audience behavior and improving gameplay;</li>
+        <li>Fixing technical bugs and optimizing performance;</li>
+        <li>Displaying relevant advertisements via partner networks.</li>
+    </ul>
+
+    <h2>3. Legal Basis</h2>
+    <p>Data processing is carried out based on:</p>
+    <ul>
+        <li>Your consent, expressed by starting and continuing to use the Game;</li>
+        <li>Our legitimate interests (improving product quality, ensuring security).</li>
+    </ul>
+
+    <h2>4. Third-Party Data Sharing</h2>
+    <p>We do not sell your data. Anonymized data may be processed by the following partner services in accordance with their privacy policies:</p>
+    <ul>
+        <li><strong>Yandex Games Platform:</strong> For authorization, cloud saves, in-game purchases, and advertising. Governed by the <a href="https://yandex.com/legal/confidential/" target="_blank">Yandex Privacy Policy</a>.</li>
+        <li><strong>OK (Odnoklassniki) Platform:</strong> If the Game is played on this social network, the platform processes data for authorization and social features. Governed by the VK Privacy Policy.</li>
+        <li><strong>Analytics Services (e.g., Yandex.Metrica):</strong> To collect usage statistics.</li>
+    </ul>
+
+    <h2>5. Cookies and Local Storage</h2>
+    <p>To save your game progress on your device, the Game uses browser Local Storage and cookies. You can clear this data at any time in your browser settings (this will reset your local game progress unless saved in the platform's cloud).</p>
+
+    <h2>6. Data Retention</h2>
+    <p>We retain anonymized analytics data only for as long as necessary to fulfill the purposes outlined in this Policy, typically no longer than 14 months from your last activity, after which it is automatically deleted by the analytics systems.</p>
+
+    <h2>7. Children's Privacy</h2>
+    <p>Our Games are designed for a general audience. We do not knowingly collect personal data from children under 13 (or the applicable age requiring parental consent in your jurisdiction). If you are a parent or guardian and believe your child has provided us with data without your consent, please contact us.</p>
+
+    <h2>8. User Rights</h2>
+    <p>If you are located in the EU (GDPR), Turkey (Article 11 of KVKK), or the Russian Federation (152-FZ), you have the right to:</p>
+    <ul>
+        <li>Request information about the data processed about you;</li>
+        <li>Request deletion of your data (achieved by clearing your browser's cache/cookies and revoking permissions in your Yandex ID or OK account settings);</li>
+        <li>Withdraw consent for data processing by ceasing use of the Game.</li>
+    </ul>
+
+    <h2>9. Contact Information</h2>
+    <p>If you have any questions regarding privacy, please contact us at:</p>
+    <ul>
+        <li><strong>Data Controller (Developer):</strong> [YOUR NAME OR COMPANY NAME]</li>
+        <li><strong>Email:</strong> <a href="mailto:antistress_igry@mail.ru">antistress_igry@mail.ru</a></li>
+    </ul>
+
+    <div class="footer">
+        &copy; 2026 Antistress Games. Все права защищены / All rights reserved.
+    </div>
+</div>
+
+</body>
+</html>
